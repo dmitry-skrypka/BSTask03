@@ -1,4 +1,4 @@
-# BSTask03
+# Posts manager
 Task: 
 - Create a page to display a list of posts where each post consists of a headline, description, picture, creation date, and tag list.
 - Features:
